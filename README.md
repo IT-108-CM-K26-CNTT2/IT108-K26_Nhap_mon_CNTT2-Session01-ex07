@@ -5,7 +5,7 @@
 
 \- Không được làm mất ngữ cảnh xưng呼 của AI. Sử dụng nhãn thay thế Placeholders.
 
-## 4. Yêu cầu đầu ra**
+## 4. Yêu cầu đầu ra
 
 ### Phần A (Masking Table):** Lập bảng 3 cột (*\*Thông tin PII thật | Nhãn che mờ Placeholder | Loại dữ liệu\**).
 
