@@ -19,7 +19,9 @@
 ### Phần B (Masked Input):** Viết lại văn bản khiếu nại đã được thay thế 100% nhãn che mờ.
 
 ```
-Tôi là [TÊN_KH] (SĐT: [SĐT_KH], Email: [EMAIL_KH], ở [ĐỊA_CHỈ_KH]). Ngày 20/09 tôi mua 2kg thịt bò Wagyu giá 4.500.000 VNĐ tại MartX District 7 nhưng bị giao chậm 3 tiếng làm hỏng tiệc gia đình. Tôi yêu cầu bồi thường 100%!
+Tôi là [TÊN_KH] (SĐT: [SĐT_KH], Email: [EMAIL_KH], ở [ĐỊA_CHỈ_KH]).
+ Ngày 20/09 tôi mua 2kg thịt bò Wagyu giá 4.500.000 VNĐ tại MartX District 7 nhưng bị giao chậm 3 tiếng làm hỏng tiệc gia đình.
+ Tôi yêu cầu bồi thường 100%!
 ```
 
 ### Phần C (Prompt gửi AI):** Viết Prompt yêu cầu AI soạn thư xin lỗi dựa trên Masked Input.
